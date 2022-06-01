@@ -26,7 +26,13 @@ git status
     tampilkan file yang telah berubah.
 
 git diff
-    tampilkan konten yang sudah dimodifikasi
+    tampilkan konten yang sudah dimodifikagit lsi
+
+git log
+    kamu atau orang lain dapat melihat commit-commit.
+
+    git log -p
+        Untuk melihat perubahan-perubahan
 
 # Tips
     CRTL + Shift + V : Paste ke Terminal (CMD)
