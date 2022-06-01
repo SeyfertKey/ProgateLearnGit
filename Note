@@ -17,13 +17,16 @@ $ git remote set-url origin remote_name URL
     untuk merubah origin URL semisal dari https://prog-8.com/mysite.git ke URL baru seperti https://github.com/SeyfertKey/mysite.git
 
 git push origin master 
-        mengunggah ke remote
+    mengunggah ke remote
 
 git pull origin master
-        Mengunduh file seperti ini disebut pull. 
+    Mengunduh file seperti ini disebut pull. 
 
 git status
-        tampilkan file yang telah berubah.
+    tampilkan file yang telah berubah.
+
+git diff
+    tampilkan konten yang sudah dimodifikasi
 
 # Tips
     CRTL + Shift + V : Paste ke Terminal (CMD)
